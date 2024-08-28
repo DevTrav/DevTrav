@@ -6,7 +6,7 @@ I’m a Software Engineer at Open Austin :star: and a software engineer focused 
 ---
 With a background in Austin service industry and significant tech education, I bring a unique blend of technical ability, world-class hospitality and a passion for impactful software. I am deeply interested in developing software solutions that not only solve technical problems but also builds a bridge between people and resources.
 
-## Technical Skills :tools:
+## Technical Skills :wrench:
 
 
 <!--
