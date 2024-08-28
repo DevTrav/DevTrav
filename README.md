@@ -2,13 +2,16 @@
 
 I’m a Software Engineer at Open Austin :star: and a software engineer focused on harnessing technology to empower others. 
 
-## About
+## About :book:
 ---
 With a background in Austin service industry and significant tech education, I bring a unique blend of technical ability, world-class hospitality and a passion for impactful software. I am deeply interested in developing software solutions that not only solve technical problems but also builds a bridge between people and resources.
 
 ## Technical Skills :wrench:
 
-
+**Languages**: JavaScript, Python, TypeScript
+**Frameworks & Libraries**: Angular, Next.js, Node.js
+**Tools & Platforms**: GitHub, Docker, Azure, AWS, GCP
+**Data Science & AI**: Educated in machine learning concepts and data analysis, most recently applied professionally in ETL process on GCP.
 <!--
 **DevTrav/DevTrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
