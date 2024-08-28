@@ -1,7 +1,13 @@
-## 👋 Hi, I'm Travers La Ville! I’m a Software Engineer at Open Austin :star: and a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+## 👋 Hi, I'm Travers La Ville! 
+
+I’m a Software Engineer at Open Austin :star: and a software engineer focused on harnessing technology to empower others. 
 
 ## About
 ---
+With a background in Austin service industry and significant tech education, I bring a unique blend of technical ability, world-class hospitality and a passion for impactful software. I am deeply interested in developing software solutions that not only solve technical problems but also builds a bridge between people and resources.
+
+## Technical Skills :tools:
+
 
 <!--
 **DevTrav/DevTrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
