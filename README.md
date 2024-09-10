@@ -9,7 +9,7 @@ With a background in Austin service industry and significant tech education, I b
 ## Technical Skills :wrench:
 
 - **Languages**: JavaScript, Python, TypeScript
-- **Frameworks & Libraries**: Angular, Next.js,React, Node.js
+- **Frameworks & Libraries**: Angular, Next.js, React, Node.js
 - **Tools & Platforms**: GitHub, Docker, Azure, AWS, GCP
 - **Data Science & AI**: Educated in machine learning concepts and data analysis, most recently applied professionally in ETL process on GCP.
 <!--
