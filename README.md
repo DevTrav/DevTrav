@@ -8,10 +8,11 @@ With a background in Austin service industry and significant tech education, I b
 
 ## Technical Skills :wrench:
 
-- **Languages**: JavaScript, Python, TypeScript
+- **Languages**: JavaScript, Python, TypeScript, Golang
 - **Frameworks & Libraries**: Angular, Next.js, React, Node.js
 - **Tools & Platforms**: GitHub, Docker, Azure, AWS, GCP
 - **Data Science & AI**: Educated in machine learning concepts and data analysis, most recently applied professionally in ETL process on GCP.
+  
 <!--
 **DevTrav/DevTrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
